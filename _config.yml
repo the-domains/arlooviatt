@@ -1,19 +1,4 @@
-name: arlooviatt
-favicon: null
-layout_spectrum: 0.7184878066182137
 typography_spectrum: 0.6328369004186243
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,19 @@ color:
   lightness: 0.332378210965544
   saturation: 0.1887433568481356
   rhythmicContrast: 0.5163727826438844
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7184878066182137
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: arlooviatt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
